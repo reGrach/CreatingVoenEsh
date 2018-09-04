@@ -1,0 +1,18 @@
+G:\Softwares\CreatingVoenEsh\Формирование ВЭШ\bin\Debug\CreatingVoenEsh.exe.config
+G:\Softwares\CreatingVoenEsh\Формирование ВЭШ\bin\Debug\CreatingVoenEsh.exe
+G:\Softwares\CreatingVoenEsh\Формирование ВЭШ\bin\Debug\CreatingVoenEsh.pdb
+G:\Softwares\CreatingVoenEsh\Формирование ВЭШ\bin\Debug\EntityFramework.dll
+G:\Softwares\CreatingVoenEsh\Формирование ВЭШ\bin\Debug\EntityFramework.SqlServer.dll
+G:\Softwares\CreatingVoenEsh\Формирование ВЭШ\bin\Debug\EntityFramework.SqlServerCompact.dll
+G:\Softwares\CreatingVoenEsh\Формирование ВЭШ\bin\Debug\System.Data.SqlServerCe.dll
+G:\Softwares\CreatingVoenEsh\Формирование ВЭШ\bin\Debug\EntityFramework.xml
+G:\Softwares\CreatingVoenEsh\Формирование ВЭШ\bin\Debug\EntityFramework.SqlServer.xml
+G:\Softwares\CreatingVoenEsh\Формирование ВЭШ\bin\Debug\EntityFramework.SqlServerCompact.xml
+G:\Softwares\CreatingVoenEsh\Формирование ВЭШ\bin\Debug\ru\EntityFramework.resources.dll
+G:\Softwares\CreatingVoenEsh\Формирование ВЭШ\obj\Debug\CreatingVoenEsh.MainWind.resources
+G:\Softwares\CreatingVoenEsh\Формирование ВЭШ\obj\Debug\Creating_VoenEsh.Properties.Resources.resources
+G:\Softwares\CreatingVoenEsh\Формирование ВЭШ\obj\Debug\Сreating VoenEsh.csproj.GenerateResource.cache
+G:\Softwares\CreatingVoenEsh\Формирование ВЭШ\obj\Debug\Сreating VoenEsh.csproj.CoreCompileInputs.cache
+G:\Softwares\CreatingVoenEsh\Формирование ВЭШ\obj\Debug\Сreating VoenEsh.csproj.CopyComplete
+G:\Softwares\CreatingVoenEsh\Формирование ВЭШ\obj\Debug\CreatingVoenEsh.exe
+G:\Softwares\CreatingVoenEsh\Формирование ВЭШ\obj\Debug\CreatingVoenEsh.pdb
